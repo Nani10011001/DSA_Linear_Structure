@@ -1,0 +1,5 @@
+push()
+frist we want create the node then we can 
+check the stack is empty means we insert the data into it
+node.next=this.frist
+this.frist=node
