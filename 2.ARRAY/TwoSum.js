@@ -11,4 +11,4 @@ for(let i=0;i<arr.length;i++){
 
 }
 const arr=[4,5,6,6]
-console.log(sumFind(arr,20))
+console.log(sumFind(arr,9))
