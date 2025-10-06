@@ -16,4 +16,4 @@ const fizzBuzz=n=>{
         }
     }
     }
-   fizzBuzz(30)
+   fizzBuzz(40)
