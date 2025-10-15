@@ -1,3 +1,6 @@
+stack is last in frist out used remove the data 
+stack have push pop peek are the basic methods
+
 push()
 frist we want create the node then we can 
 check the stack is empty means we insert the data into it
