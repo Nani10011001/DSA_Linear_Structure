@@ -6,8 +6,8 @@ class StackNode{
 }
 class stackData{
     constructor(value){
-        const newnode=new StackNode(value)
-        this.frist=newnode;
+        const newNode=new StackNode(value)
+        this.frist=newNode;
         
         this.length=1
     }
